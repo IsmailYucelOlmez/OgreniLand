@@ -12,3 +12,7 @@ This app an educational and entertaining augmented reality (AR) game application
 [IdeaPolis (Game 1)](https://github.com/IsmailYucelOlmez/Ideapolis)
 
 [Little Explorers (Game 2)](https://github.com/IsmailYucelOlmez/Little-Explorers)
+
+[Furry Friends (Game 3)](https://github.com/muhammedblikci76/FurryFrineds)
+
+[Calendar Puzzle (Game 4)](https://github.com/muhammedblikci76/ClenderPuzzle)
