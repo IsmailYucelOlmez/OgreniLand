@@ -5,7 +5,7 @@ This app an educational and entertaining augmented reality (AR) game application
 
 [Web Site GitHub](https://github.com/IsmailYucelOlmez/OgreniLand-Web-Site)
 
-[Mobile App](https://expo.dev/accounts/hamza4949/projects/ymgkproje/builds/455dbcb8-7e8f-4096-b70d-810ecab04f15)
+[Mobile App]([https://expo.dev/accounts/hamza4949/projects/ymgkproje/builds/455dbcb8-7e8f-4096-b70d-810ecab04f15](https://expo.dev/accounts/hamza4949/projects/ymgkproje/builds/37bb6da6-27a2-46c9-880d-0ff019d7dd0d))
 
 [Mobile App GitHub](https://github.com/hamza-topcu/OgreniLandMobil.git)
 
