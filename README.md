@@ -17,10 +17,10 @@ This app an educational and entertaining augmented reality (AR) game application
 
 [Calendar Puzzle (Game 4)](https://github.com/muhammedblikci76/ClenderPuzzle)
 
-[Trello Work Space](https://trello.com/w/usercalismaalani02914359)
-
 ### Development Team
 
 [İsmail Yücel Ölmez](https://github.com/IsmailYucelOlmez)
 [Hamza Topçu](https://github.com/hamza-topcu)
 [Muhammet Balıkçı](https://github.com/muhammedblikci76)
+
+[Trello Work Space](https://trello.com/w/usercalismaalani02914359)
