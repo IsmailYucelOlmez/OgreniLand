@@ -17,6 +17,8 @@ This app an educational and entertaining augmented reality (AR) game application
 
 [Calendar Puzzle (Game 4)](https://github.com/muhammedblikci76/ClenderPuzzle)
 
+[Preview Video](https://drive.google.com/file/d/12HjuU2X4Vcq_ltvmbsuvtmo5uJiYum4c/view?usp=sharing)
+
 ### Development Team
 
 [İsmail Yücel Ölmez](https://github.com/IsmailYucelOlmez)
